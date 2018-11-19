@@ -1,0 +1,123 @@
+﻿  Assignment1.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\GL/glui.h(852): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(230): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(234): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(238): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(243): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(247): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(251): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(257): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(261): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(265): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(270): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(274): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(278): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(284): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(288): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(292): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(297): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(301): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(305): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(311): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(315): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(319): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(324): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(328): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(332): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(338): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(342): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(346): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(351): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(355): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(359): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(365): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(369): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(373): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(378): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(382): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cube.h(386): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(109): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(125): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(129): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(134): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(139): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(144): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(148): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(157): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(161): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(165): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(170): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(174): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cylinder.h(178): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(135): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(139): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(143): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(160): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(164): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(168): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(173): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(177): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(181): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(198): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(202): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Cone.h(206): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Sphere.h(17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\graphics\projects\graphics\pa1\Sphere.h(18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\graphics\projects\graphics\pa1\Sphere.h(72): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\graphics\projects\graphics\pa1\Sphere.h(73): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\graphics\projects\graphics\pa1\Sphere.h(87): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Sphere.h(91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Sphere.h(95): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Sphere.h(100): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Sphere.h(104): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Sphere.h(108): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(135): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(139): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(143): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(160): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(164): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(168): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(173): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(177): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(181): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(198): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(202): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+h:\graphics\projects\graphics\pa1\Special1.h(206): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Assignment1.cpp(117): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Assignment1.cpp(118): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Assignment1.cpp(119): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Assignment1.cpp(133): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Assignment1.cpp(193): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Generating code
+  All 443 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glui32.lib(algebra3.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(algebra3.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(arcball.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(arcball.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_add_controls.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_add_controls.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_bitmaps.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_bitmaps.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_button.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_button.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_checkbox.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_checkbox.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_column.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_column.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_control.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_control.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_edittext.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_edittext.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_listbox.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_listbox.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_mouse_iaction.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_mouse_iaction.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_node.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_node.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_panel.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_panel.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_radio.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_radio.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_rollout.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_rollout.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_rotation.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_rotation.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_separator.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_separator.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_spinner.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_spinner.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_statictext.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_statictext.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_translation.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_translation.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(glui_window.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(glui_window.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+glui32.lib(quaternion.obj) : warning LNK4099: PDB 'GLUI.pdb' was not found with 'glui32.lib(quaternion.obj)' or at 'H:\Graphics\projects\Graphics\Release\GLUI.pdb'; linking object as if no debug info
+  PA1.vcxproj -> H:\Graphics\projects\Graphics\Release\PA1.exe
+  PA1.vcxproj -> H:\Graphics\projects\Graphics\Release\PA1.pdb (Full PDB)
